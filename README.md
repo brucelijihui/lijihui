@@ -1,0 +1,2 @@
+# lijihui
+my first repository
